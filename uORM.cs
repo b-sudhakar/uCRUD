@@ -2,8 +2,8 @@
 License: http://www.apache.org/licenses/LICENSE-2.0
 Email ID: micro.sudha@gmail.com
  *  
- I ll be glad if you can send email to my ID if you use this library. Soon it will be hosted on GitHub
 
+I ll be glad if you can let me know if you use this small library in your project
 
 Simple and tiny object relation mapper for CRUD frameworks. Uses dapper to create on fly serialization methods for mapping results to the objects
  and uses reflection for Add,Update and Delete operations.
